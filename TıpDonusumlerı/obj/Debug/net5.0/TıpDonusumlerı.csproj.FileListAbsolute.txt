@@ -1,0 +1,16 @@
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\bin\Debug\net5.0\TıpDonusumlerı.exe
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\bin\Debug\net5.0\TıpDonusumlerı.deps.json
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\bin\Debug\net5.0\TıpDonusumlerı.runtimeconfig.json
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\bin\Debug\net5.0\TıpDonusumlerı.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\bin\Debug\net5.0\TıpDonusumlerı.dll
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\bin\Debug\net5.0\ref\TıpDonusumlerı.dll
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\bin\Debug\net5.0\TıpDonusumlerı.pdb
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\obj\Debug\net5.0\TıpDonusumlerı.csproj.AssemblyReference.cache
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\obj\Debug\net5.0\TıpDonusumlerı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\obj\Debug\net5.0\TıpDonusumlerı.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\obj\Debug\net5.0\TıpDonusumlerı.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\obj\Debug\net5.0\TıpDonusumlerı.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\obj\Debug\net5.0\TıpDonusumlerı.dll
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\obj\Debug\net5.0\ref\TıpDonusumlerı.dll
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\obj\Debug\net5.0\TıpDonusumlerı.pdb
+C:\Users\ozlem\source\repos\TıpDonusumlerı\TıpDonusumlerı\obj\Debug\net5.0\TıpDonusumlerı.genruntimeconfig.cache
